@@ -1,0 +1,69 @@
+#centerstage{
+	margin-left:auto;
+	margin-right:auto;
+	padding:.25%;
+}
+
+#tabs{
+	margin-left:auto;
+	margin-right:auto;
+	//background:red;
+}
+
+#tab1, #tab2, #tab3{
+	position:relative;
+	width:33.33%;
+	height:100%;
+	display:inline-block;
+}
+
+.tab{
+	position:relative;
+	//display:inline-block;
+	margin-left:.25%;
+	margin-right:.25%;
+}
+
+.tablink{
+	position:absolute;
+	text-align:center;
+	width:100%;
+	height:100%;
+}
+
+.tablink a{
+	color:white;
+	position:relative;
+	top:-85%;
+}
+
+#content{
+	margin-left:auto;
+	margin-right:auto;
+	background:#003366;
+}
+
+#loginjoinlogout{
+	position:absolute;
+	display:inline-block;
+	right:2%;
+}
+
+#loginorjoinisland{
+	text-align:center;
+}
+
+#loginjoinheader{
+	margin-top:2.5%;
+	font-size:14pt;
+	color:navy;
+	text-decoration:underline;
+}
+
+#loginjoinform{
+	//text-align:center;
+}
+
+.formtextfield{
+	width:80%;
+}
