@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	alert("test");
 var pagewidth = $(window).width();
 var pageheight = $(window).height();
 var pagewidthratio = pagewidth/pageheight;
